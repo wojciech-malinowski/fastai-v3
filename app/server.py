@@ -8,11 +8,11 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-# export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
+# export_file_url = 'https://drive.google.com/uc?export=download&id=1tOf8NdWccIF3yHEfBE-i6jLUZ4OULeyf'
+export_file_url = 'https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=12hGwmXV_bPlscuH2YQ9fGqfz2f75Rgu'
 export_file_name = 'export.pkl'
 
-classes = ['black', 'grizzly', 'teddys']
+classes = ['Baroque','Classicism','Cubism','Dadaism','Impressionism','Middle Ages','Realism','Renaissance','Rococo','Romanticism','Symbolism']
 path = Path(__file__).parent
 
 app = Starlette()
