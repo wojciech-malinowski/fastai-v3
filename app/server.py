@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://drive.google.com/uc?export=download&id=1tOf8NdWccIF3yHEfBE-i6jLUZ4OULeyf'
-export_file_url = 'https://drive.google.com/uc?export=download&id=1GsQ7z5fTx8-OFCFAu10ADCsx3lnQL-Cw'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1mM_RUxf9cTiWmlPjcqV-p9gfPadpywMe'
 export_file_name = 'export.pkl'
 
 classes = ['Baroque','Classicism','Cubism','Dadaism','Impressionism','Middle Ages','Realism','Renaissance','Rococo','Romanticism','Symbolism']
